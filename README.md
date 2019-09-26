@@ -1,6 +1,7 @@
 # flutter_scope_model
 
-A new Flutter application.
+A new Flutter application descriving implementation usng scoped model.
+It contains a creen which will show you two buttons and a counter text. Counter will changed based on click events on the buttons.
 
 ## Getting Started
 
